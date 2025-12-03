@@ -19,5 +19,5 @@ body{
 .imagens img{
     margin-right: 40px;
     width: 210px;
-    height: 210px;
+    height: auto;
 }
